@@ -1,7 +1,7 @@
 # LTX2-Infinity
 LTX2 infinite length video generation Comfyui workflow based on the Stable-Video-Infinity concept and workflow
 
-![Low Resolution Demo video](LTX2I_LRvideo.mp4)
+https://github.com/user-attachments/assets/f29efa2e-29d6-4c42-969f-f6dc8ab7b03a
 
 ![Full Resolution Demo video](LTX2I_FRvideo.mp4)
 
