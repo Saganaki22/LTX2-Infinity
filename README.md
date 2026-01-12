@@ -85,10 +85,6 @@ Segment 3: The robotic arm begins its ascent, moving vertically upward from the 
 
 Segment 4: The robotic arm continues its retraction until it reaches a designated "home" position to the side of the work station. It settles into a metal cradle with a soft metallic clunk. The hydraulics power down, and the arm goes completely still, entering a sleep mode. The status lights on the arm change from active blue to a dim amber. The camera slowly zooms out to a wide shot of the workstation, showing the dormant arm on the right and the finished circuit board on the left, conveying a sense of completion and suspended industrial silence.
 
-I need you to create 4 segments, each roughly 5 seconds long based on the input image.
-
-each segment needs to be extremely verbose detail using 1000+ words for each segment and ensure very strong continuity between these segments! no video transitions or cut aways or cut ins or any other transitions occur in the video. this can be an action sequence or something else, but it all must take place in the given scene.
-
 ---------------------------------
 
 [!!!REPLACE!!! USER PROMPT GOES HERE !!!REPLACE!!! ]```
