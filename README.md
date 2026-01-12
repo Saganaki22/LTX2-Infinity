@@ -83,4 +83,12 @@ Segment 2: The microchip makes contact with the socket, and the robotic arm appl
 
 Segment 3: The robotic arm begins its ascent, moving vertically upward from the completed circuit board. As it rises, the wrist joint rotates 45 degrees, changing the orientation of the gripper. The movement is mechanical and rigid, emphasizing the industrial nature of the machine. The camera pans upward slightly to follow the arm, revealing more of the complex cabling and machinery in the background. The lighting remains constant, reflecting off the clean, painted metal surfaces of the arm housing. The circuit board remains in the bottom of the frame, motionless and completed.
 
-Segment 4: The robotic arm continues its retraction until it reaches a designated "home" position to the side of the work station. It settles into a metal cradle with a soft metallic clunk. The hydraulics power down, and the arm goes completely still, entering a sleep mode. The status lights on the arm change from active blue to a dim amber. The camera slowly zooms out to a wide shot of the workstation, showing the dormant arm on the right and the finished circuit board on the left, conveying a sense of completion and suspended industrial silence.```
+Segment 4: The robotic arm continues its retraction until it reaches a designated "home" position to the side of the work station. It settles into a metal cradle with a soft metallic clunk. The hydraulics power down, and the arm goes completely still, entering a sleep mode. The status lights on the arm change from active blue to a dim amber. The camera slowly zooms out to a wide shot of the workstation, showing the dormant arm on the right and the finished circuit board on the left, conveying a sense of completion and suspended industrial silence.
+
+I need you to create 4 segments, each roughly 5 seconds long based on the input image.
+
+each segment needs to be extremely verbose detail using 1000+ words for each segment and ensure very strong continuity between these segments! no video transitions or cut aways or cut ins or any other transitions occur in the video. this can be an action sequence or something else, but it all must take place in the given scene.
+
+---------------------------------
+
+[!!!REPLACE!!! USER PROMPT GOES HERE !!!REPLACE!!! ]```
