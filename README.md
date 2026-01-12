@@ -1,6 +1,8 @@
 # LTX2-Infinity
 LTX2 infinite length video generation Comfyui workflow based on the Stable-Video-Infinity concept and workflow
 
+![Video description](./video.mp4)
+
 
 I'm sure other LLMs can be successful in crafting prompts for this but for the included workflow, I used Gemini.
 
