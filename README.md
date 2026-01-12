@@ -3,8 +3,6 @@ LTX2 infinite length video generation Comfyui workflow based on the Stable-Video
 
 https://github.com/user-attachments/assets/f29efa2e-29d6-4c42-969f-f6dc8ab7b03a
 
-![Full Resolution Demo video](LTX2I_FRvideo.mp4)
-
 I'm sure other LLMs can be successful in crafting prompts for this but for the included workflow, I used Gemini.
 
 Here is the system prompt:
